@@ -1,5 +1,7 @@
 # Android Bug Analyzer V2
 
+#𝐓𝐞𝐬𝐭 𝐤𝐞𝐲 𝟭 𝗻𝗴𝗮̀𝘆 𝐯𝐚̀ 𝐛𝐚̉𝐧𝐠 𝐠𝐢𝐚́ 𝐤𝐞𝐲 𝘁𝗮̣𝗶 đ𝐚̂𝘆: https://www.facebook.com/share/p/1BxBaAd9DZ/
+
 **Android Bug Analyzer V2** là công cụ hỗ trợ kiểm tra, phân tích và chẩn đoán thông tin trên thiết bị Android, được thiết kế với giao diện trực quan và dễ sử dụng.
 
 Phiên bản V2 được nâng cấp toàn diện về giao diện và trải nghiệm người dùng, giúp việc kiểm tra thiết bị trở nên thuận tiện và rõ ràng hơn.
