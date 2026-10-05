@@ -40,3 +40,7 @@ Android Bug Analyzer V2 phù hợp với người dùng muốn tìm hiểu thôn
 **Analyze • Diagnose • Understand Your Android**
 
 Developer: **Bronc3**
+
+<img width="1080" height="2280" alt="image" src="https://github.com/user-attachments/assets/4d286773-edc7-474c-b64b-e7ffda16783d" />
+
+<img width="1362" height="723" alt="image" src="https://github.com/user-attachments/assets/a60e3f5a-778e-4aab-9aea-19ab85999805" />
